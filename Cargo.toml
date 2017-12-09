@@ -1,0 +1,6 @@
+[package]
+name = "maggana"
+version = "0.1.0"
+authors = ["Gnanavel MUtharasu <gnanavel.mUtharasu@gmaill.com>"]
+
+[dependencies]
